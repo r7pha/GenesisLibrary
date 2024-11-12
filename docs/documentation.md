@@ -11,6 +11,7 @@ Primeiro de tudo, você necessitará adicionar a Genesis.dll às referências do
 Clique em "Procurar" (no canto  e em seguida, clique no botão "Procurar" abaixo.
 
 ![Passo2_Referencias](https://github.com/user-attachments/assets/e0453d9d-789f-40f1-8ed9-0c3f7df4319e)
+
 3. Procure pelo Genesis.dll e adicione, em seguida marque a CheckBox e clique em "OK".
 
 ![Passo3_Referencias](https://github.com/user-attachments/assets/807d3f7e-ce95-467b-b6ed-ddd886c5191e)
