@@ -7,4 +7,4 @@ Genesis é uma biblioteca (.dll) feita em C# (.NET Framework) para auxiliar na c
 Você pode ler a documentação (docLink)
 
 ## Onde eu baixo?
-Você pode baixar a versão mais recente aqui: (dwnldLink)
+Você pode baixar a versão mais recente aqui: [Download](https://github.com/r7pha/GenesisLibrary/releases/download/Alpha/Genesis1.0.dll)
